@@ -72,7 +72,6 @@ class check_brackets {
         }else {
             System.out.println("Success");
         }
-        // Printing answer, write your code here
     }
 }
 
